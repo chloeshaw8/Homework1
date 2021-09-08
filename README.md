@@ -17,7 +17,7 @@
 "Length": 39098,
 "Accession number": 050578
 },{
-"Name": HBB,
+"Name": "HBB",
 "Length": 10106,
 "Accession number": 059281
 }]
